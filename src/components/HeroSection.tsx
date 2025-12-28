@@ -9,6 +9,7 @@
 export default function HeroSection() {
   return (
     <section>
+      {/* Its a sample code push */}
       {/* Add your hero section content here */}
     </section>
   )
